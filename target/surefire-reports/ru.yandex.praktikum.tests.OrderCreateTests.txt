@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: ru.yandex.praktikum.tests.OrderCreateTests
--------------------------------------------------------------------------------
-Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.002 s - in ru.yandex.praktikum.tests.OrderCreateTests
