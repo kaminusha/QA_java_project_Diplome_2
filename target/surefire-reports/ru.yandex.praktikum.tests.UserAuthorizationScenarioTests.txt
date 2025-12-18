@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ru.yandex.praktikum.tests.UserAuthorizationScenarioTests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.335 s - in ru.yandex.praktikum.tests.UserAuthorizationScenarioTests

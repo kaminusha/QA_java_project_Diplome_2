@@ -1,0 +1,6 @@
+ru/yandex/praktikum/config/RestConfig.class
+ru/yandex/praktikum/steps/UserSteps.class
+ru/yandex/praktikum/models/OrderPojo.class
+ru/yandex/praktikum/Main.class
+ru/yandex/praktikum/models/UserPojo.class
+ru/yandex/praktikum/steps/OrderSteps.class
